@@ -345,6 +345,16 @@ template {
 	position: relative;
 }
 
+.large-hero__text-content {
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	        transform: translateY(-50%);
+	left: 3%;
+	width: 100%;
+	text-align: left;
+}
+
 body {
 	font-family: 'Roboto', sans-serif;
 	color: #333;
