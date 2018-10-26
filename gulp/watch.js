@@ -3,7 +3,6 @@ var gulp = require('gulp'),
 	browserSync = require('browser-sync').create();
 
 gulp.task('watch', function() {
-
 	browserSync.init({
 		notify: false,
 		server: {
@@ -18,7 +17,6 @@ gulp.task('watch', function() {
 	watch('./html/styles/**/*.css', function() {
 		gulp.start('cssInject');
 	});
-
 });
 
 gulp.task('cssInject', ['styles'], function() {
