@@ -529,24 +529,6 @@
 			}
 		},
 		{
-			"file": "/H/YandexDisk/coding web/gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 815,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/H/YandexDisk/coding web/package.json",
-			"settings":
-			{
-				"buffer_size": 367,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "styles/styles.css",
 			"settings":
 			{
@@ -721,20 +703,23 @@
 	"expanded_folders":
 	[
 		"/H/YandexDisk/coding web",
+		"/H/YandexDisk/coding web/gulp",
 		"/H/YandexDisk/coding web/html",
 		"/H/YandexDisk/coding web/html/styles",
 		"/H/YandexDisk/coding web/html/temp"
 	],
 	"file_history":
 	[
+		"/H/YandexDisk/coding web/gulp/styles.js",
+		"/H/YandexDisk/coding web/gulp/watch.js",
+		"/H/YandexDisk/coding web/gulpfile.js",
+		"/H/YandexDisk/coding web/package.json",
 		"/H/YandexDisk/coding web/html/temp/styles.css",
 		"/H/YandexDisk/coding web/html/styles/_btn.css",
 		"/C/Users/Hedgehog/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/H/YandexDisk/coding web/html/temp/styles/styles.css",
-		"/H/YandexDisk/coding web/package.json",
 		"/H/YandexDisk/coding web/node_modules/normalize.css/normalize.css",
 		"/H/YandexDisk/coding web/html/styles/modules/_large-hero.css",
-		"/H/YandexDisk/coding web/gulpfile.js",
 		"/H/YandexDisk/coding web/html/styles/styles.css",
 		"/H/YandexDisk/coding web/html/css/style.css",
 		"/H/YandexDisk/coding web/html/index.html",
@@ -845,6 +830,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"index",
 			"mainBlue",
 			"hero",
 			"me",
@@ -966,8 +952,8 @@
 						"selection":
 						[
 							[
-								399,
-								399
+								1093,
+								1093
 							]
 						],
 						"settings":
@@ -981,74 +967,15 @@
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/H/YandexDisk/coding web/gulpfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 815,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								251,
-								251
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/H/YandexDisk/coding web/package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 367,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 1,
 					"file": "styles/styles.css",
 					"semi_transient": false,
 					"settings":
@@ -1076,7 +1003,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 2,
 					"file": "styles/_global.css",
 					"semi_transient": false,
 					"settings":
@@ -1105,7 +1032,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 3,
 					"file": "styles/_variables.css",
 					"semi_transient": false,
 					"settings":
@@ -1134,7 +1061,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 4,
 					"file": "styles/_large-hero.css",
 					"semi_transient": false,
 					"settings":
@@ -1146,8 +1073,8 @@
 						"selection":
 						[
 							[
-								53,
-								53
+								182,
+								182
 							]
 						],
 						"settings":
@@ -1158,11 +1085,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 5,
 					"file": "styles/_btn.css",
 					"semi_transient": false,
 					"settings":
@@ -1186,11 +1113,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 6,
 					"file": "temp/styles.css",
 					"semi_transient": false,
 					"settings":

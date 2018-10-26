@@ -10,41 +10,58 @@
 
 <body>		
 	<!-- HEADER -->
-	<header>		
-		<a class="btn btn-large" href="index.html">Scoring Samples</a>
-		<nav>
-			<ul>
-				<li><a href="products.html">Products</a></li>
-				<li><a href="media.html">Media</a></li>
-				<li><a href="contact.html">Contact</a></li>
-			</ul>				
-		</nav>
+	<header>	
+		<div class="wrapper">			
+			<a class="btn btn--large" href="index.html">Scoring Samples</a>
+			<nav>
+				<ul>
+					<li><a href="products.html">Products</a></li>
+					<li><a href="media.html">Media</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>				
+			</nav>
+		</div>
 	</header>	
 
 	<!-- HERO -->
 	<div class="large-hero">
-		<img src="images/large-hero-1.jpg">
-		<div class="large-hero__text-content">
-			<h1 class="large-hero__title">Ukulele Concerto</h1>	
-			<h2 class="large-hero__subtitle">New Kontakt Library</h2>
-			<ul class="large-hero__description">
-				<li>deep sampling Kontakt instrument.</li>
-				<li>solo and strum mode</li>
-				<li>more 3000 samples</li>
-			</ul>	
-			<p><a class="btn" href="products.html">Show me more</a></p>					
+		<div class="wrapper">
+			<picture>
+				<source srcset="images/hero-ukulele-large.jpg" media="(min-width: 1380px)">
+				<source srcset="images/hero-ukulele-medium.jpg" media="(min-width: 990px)">
+				<source srcset="images/hero-ukulele-small.jpg" media="(min-width: 640px)">
+				<img class="large-hero__image" src="images/hero-ukulele-smallest.jpg" alt="ukulele">
+			</picture>
+			<div class="large-hero__text-content">
+				<div class="wrapper">
+					<h1 class="large-hero__title">Ukulele Concerto</h1>	
+					<h2 class="large-hero__subtitle">New Kontakt Library</h2>
+					<ul class="large-hero__description">
+						<li>deep sampling Kontakt instrument.</li>
+						<li>solo and strum mode</li>
+						<li>more 3000 samples</li>
+					</ul>	
+					<p><a class="btn" href="products.html">Show me more</a></p>	
+				</div>				
+			</div>
 		</div>
 	</div>	
+	
+	<div class="page-section">
+		<div class="wrapper">
+			<h2>Description</h2>
+			<p>This is a main area. Performance Samples grew from years of iterative private orchestral/choral sample development; an exploration of how session configuration and post-production processes can nurture musical nuance within sampling.The culmination: commercial libraries along the lines of what has worked in private development.The aim: expressive & energetic instruments unconfined by technical propriety. Heart and character in a decidedly function>form presentation. Clean samples, comprehensive patch lists, fancy GUIs, and other elements of tradition are not part of the picture here.The methodology: performance-sourced and non-standard techniques for enhanced expression and energy in the realm of creative notation, musician selection, performance styles, recording environment, post-pro processes, and programming.</p>
 
-	<h2>Description</h2>
-	<p>This is a main area. Performance Samples grew from years of iterative private orchestral/choral sample development; an exploration of how session configuration and post-production processes can nurture musical nuance within sampling.The culmination: commercial libraries along the lines of what has worked in private development.The aim: expressive & energetic instruments unconfined by technical propriety. Heart and character in a decidedly function>form presentation. Clean samples, comprehensive patch lists, fancy GUIs, and other elements of tradition are not part of the picture here.The methodology: performance-sourced and non-standard techniques for enhanced expression and energy in the realm of creative notation, musician selection, performance styles, recording environment, post-pro processes, and programming.</p>
+			<aside>
+				<p>This is a sidebar. Performance Samples grew from years of iterative private orchestral/choral sample development; an exploration of how session configuration and post-production processes can nurture musical nuance within sampling.	</p>	
+			</aside>	
+		</div>	
+	</div>
 
-	<aside>
-		<p>This is a sidebar. Performance Samples grew from years of iterative private orchestral/choral sample development; an exploration of how session configuration and post-production processes can nurture musical nuance within sampling.	</p>	
-	</aside>		
-		
-	<footer>		
-		<p>2018 - This is a footer</p>		
+	<footer>	
+		<div class="wrapper">	
+			<p>2018 - This is a footer</p>	
+		</div>	
 	</footer>	
 </body>
 </html>
