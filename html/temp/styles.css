@@ -344,6 +344,7 @@ template {
 body {
 	font-family: 'Roboto', sans-serif;
 	color: #333;
+	background-color: #e8e8e8;
 }
 
 img {
@@ -455,5 +456,11 @@ img {
 
 .page-section {
 	padding: 4.5rem 0;
+}
+
+.headline {
+	font-weight: 300;
+	font-size: 2.875rem;
+	color: #2f5575;
 }
 
