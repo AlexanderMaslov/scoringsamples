@@ -531,3 +531,11 @@ a {
 .generic-content-container p a {
 		font-weight: 700;
 	}
+
+.site-footer {
+	background-color: #626262;
+	font-weight: 200;
+	color: #FFF;
+	padding: .5rem 0;
+	text-align: center;
+}
