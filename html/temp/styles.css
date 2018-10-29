@@ -459,17 +459,6 @@ a {
 		background-color: rgba(47,85,117, 0.0);
 	}
 
-.btn--medium {
-		padding: 1.1rem 1.9rem;
-	}
-
-@media (min-width: 530px) {
-
-.btn--medium {
-			font-size: 1.25rem
-	}
-	}
-
 .btn--large {
 		padding: 1.6rem;
 	}
@@ -582,6 +571,10 @@ a {
 	}
 
 .site-header__logo {
+		color: #FFF;
+		font-size: 1.1rem;
+		font-weight: 300;
+		text-decoration: none;
 		position: absolute;	
 		top: 0;	
 		left: 50%;
@@ -589,6 +582,8 @@ a {
 		        transform: translateX(-50%) scale(.8);
 		-webkit-transform-origin: 50% 0%;
 		        transform-origin: 50% 0%;
+		background-color: #d59541;
+		padding: 25px 36px;
 	}
 
 @media (min-width: 800px) {
