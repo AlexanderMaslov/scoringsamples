@@ -369,6 +369,7 @@ a {
 	}
 
 .large-hero__text-content {
+		padding-top: 88px;
 		position: absolute;
 		top: 50%;
 		-webkit-transform: translateY(-50%);
@@ -376,6 +377,13 @@ a {
 		left: 3%;
 		width: 100%;
 		text-align: left;
+	}
+
+@media (min-width: 800px) {
+
+.large-hero__text-content {
+			padding-top: 60px
+	}
 	}
 
 .large-hero__title {
@@ -443,8 +451,27 @@ a {
 		background-color: #626262;
 	}
 
-.btn--large {
+.btn--black {
+		background-color: #000;
+	}
+
+.btn--transparent {
+		background-color: rgba(47,85,117, 0.0);
+	}
+
+.btn--medium {
 		padding: 1.1rem 1.9rem;
+	}
+
+@media (min-width: 530px) {
+
+.btn--medium {
+			font-size: 1.25rem
+	}
+	}
+
+.btn--large {
+		padding: 1.6rem;
 	}
 
 @media (min-width: 530px) {
@@ -541,7 +568,89 @@ a {
 }
 
 .site-header {
+	padding: 1.25rem 0;
 	position: absolute;
+	width: 100%;
 	z-index: 2;
-	background-color: rgba(47,85,117, .3);
 }
+
+@media (min-width: 800px) {
+
+.site-header {
+		background-color: rgba(47,85,117, .3)
+}
+	}
+
+.site-header__logo {
+		position: absolute;	
+		top: 0;	
+		left: 50%;
+		-webkit-transform: translateX(-50%) scale(.8);
+		        transform: translateX(-50%) scale(.8);
+		-webkit-transform-origin: 50% 0%;
+		        transform-origin: 50% 0%;
+	}
+
+@media (min-width: 800px) {
+
+.site-header__logo {
+			left: auto;
+			-webkit-transform: translateX(0);
+			        transform: translateX(0)
+	}
+	}
+
+.site-header__menu-icon {
+		width: 20px;
+		height: 20px;
+		background-color: #FFF;
+		position: absolute;
+		top: 10px;
+		right: 10px;
+	}
+
+@media (min-width: 800px) {
+
+.site-header__menu-icon {
+			display: none
+	}
+	}
+
+.site-header__menu-content {
+		display: none;
+	}
+
+@media (min-width: 800px) {
+
+.site-header__menu-content {
+			display: block
+	}
+	}
+
+.primary-nav--pull-right {
+		float: right;
+	}
+
+.primary-nav ul {
+		margin: 0;
+		padding: 0;
+	}
+
+.primary-nav ul::after {
+		content: "";
+		clear: both;
+		display: table;
+	}
+
+.primary-nav li {
+		list-style: none;
+		float: left;
+		padding-right: 20px;
+	}
+
+.primary-nav a {
+		color: #FFF;
+		text-decoration: none;
+		font-weight: 300;
+		display: block;
+	}
