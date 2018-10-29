@@ -539,3 +539,9 @@ a {
 	padding: .5rem 0;
 	text-align: center;
 }
+
+.site-header {
+	position: absolute;
+	z-index: 2;
+	background-color: rgba(47,85,117, .3);
+}

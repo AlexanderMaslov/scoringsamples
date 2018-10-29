@@ -520,11 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "styles/_generic-content-container.css",
+			"file": "styles/_site-footer.css",
 			"settings":
 			{
-				"buffer_size": 134,
-				"encoding": "UTF-8",
+				"buffer_size": 125,
 				"line_ending": "Windows"
 			}
 		}
@@ -652,20 +651,20 @@
 		"/H/YandexDisk/coding web",
 		"/H/YandexDisk/coding web/gulp",
 		"/H/YandexDisk/coding web/html",
-		"/H/YandexDisk/coding web/html/images",
-		"/H/YandexDisk/coding web/html/temp"
+		"/H/YandexDisk/coding web/html/styles"
 	],
 	"file_history":
 	[
 		"/H/YandexDisk/coding web/html/index.html",
-		"/H/YandexDisk/coding web/gulp/sprites.js",
-		"/H/YandexDisk/coding web/gulpfile.js",
-		"/H/YandexDisk/coding web/html/styles/_row.css",
+		"/H/YandexDisk/coding web/html/styles/_site-footer.css",
+		"/H/YandexDisk/coding web/html/styles/styles.css",
 		"/H/YandexDisk/coding web/html/styles/_generic-content-container.css",
+		"/H/YandexDisk/coding web/gulpfile.js",
+		"/H/YandexDisk/coding web/gulp/sprites.js",
+		"/H/YandexDisk/coding web/html/styles/_row.css",
 		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
 		"/H/YandexDisk/coding web/html/styles/_headline.css",
 		"/H/YandexDisk/coding web/html/styles/_global.css",
-		"/H/YandexDisk/coding web/html/styles/styles.css",
 		"/H/YandexDisk/coding web/html/styles/_mixins.css",
 		"/H/YandexDisk/coding web/html/styles/_page-section.css",
 		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
@@ -910,23 +909,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "styles/_generic-content-container.css",
+					"file": "styles/_site-footer.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 134,
+						"buffer_size": 125,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								102,
-								102
+								63,
+								63
 							]
 						],
 						"settings":
 						{
+							"open_with_edit": true,
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -1031,7 +1031,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 197.0,
+	"side_bar_width": 303.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
