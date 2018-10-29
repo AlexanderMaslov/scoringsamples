@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"fav",
+				"favColor"
+			],
+			[
+				"favorite",
+				"favoriteColor"
+			],
+			[
+				"jo",
+				"johnFavColor"
+			],
+			[
+				"b",
+				"border-box\tbox-sizing"
+			],
+			[
+				"bo",
+				"content-box\tbox-sizing"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"trans",
+				"translateX()\ttransform"
+			],
+			[
+				"tran",
+				"translateX()\ttransform"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
 				"z",
 				"z-index\tproperty"
 			],
@@ -22,10 +66,6 @@
 			[
 				"box",
 				"box-sizing\tproperty"
-			],
-			[
-				"paddin",
-				"padding-right\tproperty"
 			],
 			[
 				"font-",
@@ -64,10 +104,6 @@
 				"translateX()\ttransform"
 			],
 			[
-				"tran",
-				"translateY()\ttransform"
-			],
-			[
 				"fun",
 				"function"
 			],
@@ -88,20 +124,12 @@
 				"font-family"
 			],
 			[
-				"paddi",
-				"padding-top\tproperty"
-			],
-			[
 				"back",
 				"background-color\tproperty"
 			],
 			[
 				"backgro",
 				"background-color\tproperty"
-			],
-			[
-				"tex",
-				"text-align\tproperty"
 			],
 			[
 				"ju",
@@ -486,34 +514,6 @@
 			[
 				"offse",
 				"set_skin_offset\tfunction"
-			],
-			[
-				"mic",
-				"mic_min\tdefault"
-			],
-			[
-				"HIDE_PAR",
-				"HIDE_PART_NOTHING\tvariable"
-			],
-			[
-				"contro",
-				"CONTROL_PAR_HIDE\tvariable"
-			],
-			[
-				"controlpar",
-				"CONTROL_PAR_NONE\tvariable"
-			],
-			[
-				"setcon",
-				"set_control_par\tfunction"
-			],
-			[
-				"ui.s",
-				"ui.switch\tdefault"
-			],
-			[
-				"pan",
-				"pan_default\tdefault"
 			]
 		]
 	},
@@ -523,33 +523,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4107,
+				"buffer_size": 4397,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/H/YandexDisk/coding web/package.json",
+			"file": "scripts/app.js",
 			"settings":
 			{
-				"buffer_size": 496,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "styles/_site-header.css",
-			"settings":
-			{
-				"buffer_size": 90,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "styles/_variables.css",
-			"settings":
-			{
-				"buffer_size": 97,
+				"buffer_size": 346,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -676,29 +659,30 @@
 	"expanded_folders":
 	[
 		"/H/YandexDisk/coding web",
-		"/H/YandexDisk/coding web/gulp",
 		"/H/YandexDisk/coding web/html",
-		"/H/YandexDisk/coding web/html/styles"
+		"/H/YandexDisk/coding web/html/scripts"
 	],
 	"file_history":
 	[
+		"/H/YandexDisk/coding web/html/index.html",
+		"/H/YandexDisk/coding web/html/styles/_site-header.css",
+		"/H/YandexDisk/coding web/html/styles/_btn.css",
+		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
+		"/H/YandexDisk/coding web/html/styles/_primary-nav.css",
+		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
+		"/H/YandexDisk/coding web/html/styles/styles.css",
+		"/H/YandexDisk/coding web/html/styles/_variables.css",
 		"/H/YandexDisk/coding web/package-lock.json",
 		"/H/YandexDisk/coding web/gulp/styles.js",
 		"/H/YandexDisk/coding web/html/styles/_site-footer.css",
-		"/H/YandexDisk/coding web/html/styles/styles.css",
-		"/H/YandexDisk/coding web/html/index.html",
 		"/H/YandexDisk/coding web/html/styles/_generic-content-container.css",
 		"/H/YandexDisk/coding web/gulpfile.js",
 		"/H/YandexDisk/coding web/gulp/sprites.js",
 		"/H/YandexDisk/coding web/html/styles/_row.css",
-		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
 		"/H/YandexDisk/coding web/html/styles/_headline.css",
 		"/H/YandexDisk/coding web/html/styles/_global.css",
 		"/H/YandexDisk/coding web/html/styles/_mixins.css",
 		"/H/YandexDisk/coding web/html/styles/_page-section.css",
-		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
-		"/H/YandexDisk/coding web/html/styles/_variables.css",
-		"/H/YandexDisk/coding web/html/styles/_btn.css",
 		"/H/YandexDisk/coding web/package.json",
 		"/H/YandexDisk/coding web/html/temp/styles.css",
 		"/H/YandexDisk/coding web/gulp/watch.js",
@@ -813,6 +797,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hello",
+			"Jane",
+			"blue",
+			"script",
 			"after",
 			"a",
 			";\n",
@@ -926,7 +914,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -935,15 +923,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4107,
+						"buffer_size": 4397,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								314,
-								314
+								4397,
+								4397
 							]
 						],
 						"settings":
@@ -952,40 +940,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1539.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/H/YandexDisk/coding web/package.json",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 496,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -995,60 +953,32 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
-					"file": "styles/_site-header.css",
+					"buffer": 1,
+					"file": "scripts/app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 90,
+						"buffer_size": 346,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								86,
-								86
+								346,
+								346
 							]
 						],
 						"settings":
 						{
 							"open_with_edit": true,
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "styles/_variables.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 97,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1138,7 +1068,7 @@
 		],
 		"width": 592.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
