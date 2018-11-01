@@ -10,6 +10,6 @@ class Adult extends Person {
 var john = new Person("John Doe", "blue");
 john.greet();
 
-var jane = new Adult("Jane Smith", "orange");
+var jane = new Adult("Jane Smith", "black");
 jane.greet();
 jane.payTaxes();
