@@ -6,12 +6,17 @@
 	}
 
 	&__text-content {
+		padding-top: 88px;
 		position: absolute;
 		top: 50%;
 		transform: translateY(-50%);
 		left: 3%;
 		width: 100%;
 		text-align: left;
+
+		@mixin atMedium {
+			padding-top: 60px;
+		}
 	}
 
 	&__title {
