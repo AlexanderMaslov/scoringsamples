@@ -1,8 +1,13 @@
+import $ from 'jquery';
 import MobileMenu from './MobileMenu';
 import StickyHeader from './StickyHeader';
-import $ from 'jquery';
+import Modal from './Modal';
 
 var mobileMenu = new MobileMenu();
 var stickyHeader = new StickyHeader();
+var modal = new Modal();
 
-console.log(stickyHeader.siteHeader);
+console.log(mobileMenu);
+console.log(stickyHeader);
+console.log(modal);
+

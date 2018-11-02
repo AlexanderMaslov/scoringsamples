@@ -17,4 +17,12 @@
 	&--no-t-margin {
 		margin-top: 0;
 	}
+
+	&--center {
+		text-align: center;
+	}
+
+	&--bold {
+		font-weight: 500;
+	}
 }

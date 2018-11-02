@@ -4,6 +4,90 @@
 		"selected_items":
 		[
 			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"s",
+				"scale()\ttransform"
+			],
+			[
+				"clo",
+				"closeModal"
+			],
+			[
+				"closeMo",
+				"closeModalButton"
+			],
+			[
+				"openM",
+				"openModalButton"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"p",
+				"progress\tcursor"
+			],
+			[
+				"transform",
+				"transform-origin\tproperty"
+			],
+			[
+				"head",
+				"headline"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"crea",
+				"createPageSectionWaypoints"
+			],
+			[
+				"pa",
+				"pageSections"
+			],
+			[
+				"products",
+				"products-link"
+			],
+			[
+				"site",
+				"site-header"
+			],
+			[
+				"sca",
+				"scaleX()\ttransform"
+			],
+			[
+				"main",
+				"mainWhite"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
 				"menu",
 				"menuContent"
 			],
@@ -36,22 +120,6 @@
 				"content-box\tbox-sizing"
 			],
 			[
-				"tex",
-				"text-decoration\tproperty"
-			],
-			[
-				"paddi",
-				"padding\tproperty"
-			],
-			[
-				"trans",
-				"translateX()\ttransform"
-			],
-			[
-				"tran",
-				"translateX()\ttransform"
-			],
-			[
 				"di",
 				"display\tproperty"
 			],
@@ -66,10 +134,6 @@
 			[
 				"pos",
 				"position\tproperty"
-			],
-			[
-				"fon",
-				"font-weight\tproperty"
 			],
 			[
 				"mar",
@@ -92,10 +156,6 @@
 				"max-width\tproperty"
 			],
 			[
-				"padd",
-				"padding-right\tproperty"
-			],
-			[
 				"con",
 				"content\tAttr"
 			],
@@ -110,10 +170,6 @@
 			[
 				"list",
 				"list-style\tproperty"
-			],
-			[
-				"tra",
-				"translateX()\ttransform"
 			],
 			[
 				"fun",
@@ -154,10 +210,6 @@
 			[
 				"texa",
 				"text-align\tproperty"
-			],
-			[
-				"text",
-				"text-transform\tproperty"
 			],
 			[
 				"align",
@@ -462,76 +514,16 @@
 			[
 				"CONTROL_PAR_f",
 				"CONTROL_PAR_FONT_TYPE\tvariable"
-			],
-			[
-				"mix",
-				"mixes_name"
-			],
-			[
-				"track",
-				"track_name"
-			],
-			[
-				"mie",
-				"mixes_name"
-			],
-			[
-				"mi",
-				"mix_name"
-			],
-			[
-				"inde",
-				"index_mix"
-			],
-			[
-				"temp",
-				"template_num"
-			],
-			[
-				"te",
-				"template_num"
-			],
-			[
-				"s",
-				"show"
-			],
-			[
-				"show",
-				"ShowConsoleMsg"
-			],
-			[
-				"hide",
-				"hide_tracks"
-			],
-			[
-				"fade",
-				"fader_distance\tdefault"
-			],
-			[
-				"btnmu",
-				"btn_mute_side\tdefault"
-			],
-			[
-				"btnsol",
-				"btn_solo_side\tdefault"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/H/YandexDisk/coding web/package.json",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 645,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "scripts/App.js",
-			"settings":
-			{
-				"buffer_size": 74,
+				"buffer_size": 6132,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -540,7 +532,7 @@
 			"file": "scripts/MobileMenu.js",
 			"settings":
 			{
-				"buffer_size": 378,
+				"buffer_size": 540,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -691,32 +683,39 @@
 	],
 	"file_history":
 	[
-		"/H/YandexDisk/coding web/html/styles/_site-header.css",
+		"/H/YandexDisk/coding web/html/scripts/Modal.js",
+		"/H/YandexDisk/coding web/html/styles/_modal.css",
+		"/H/YandexDisk/coding web/html/styles/_btn.css",
+		"/H/YandexDisk/coding web/html/scripts/App.js",
 		"/H/YandexDisk/coding web/webpack.config.js",
-		"/H/YandexDisk/coding web/html/scripts/person.js",
+		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
+		"/H/YandexDisk/coding web/html/styles/_primary-nav.css",
+		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
+		"/H/YandexDisk/coding web/html/styles/_headline.css",
+		"/H/YandexDisk/coding web/html/styles/styles.css",
+		"/H/YandexDisk/coding web/html/styles/_video-content.css",
+		"/H/YandexDisk/coding web/html/scripts/StickyHeader.js",
+		"/H/YandexDisk/coding web/html/styles/_page-section.css",
+		"/H/YandexDisk/coding web/html/styles/_site-header.css",
+		"/H/YandexDisk/coding web/html/scripts/MobileMenu.js",
+		"/H/YandexDisk/coding web/html/styles/_variables.css",
 		"/H/YandexDisk/coding web/package.json",
+		"/H/YandexDisk/coding web/html/temp/app.js",
 		"/H/YandexDisk/coding web/html/index.html",
+		"/H/YandexDisk/coding web/html/scripts/person.js",
 		"/H/YandexDisk/coding web/gulp/scripts.js",
 		"/H/YandexDisk/coding web/gulp/styles.js",
 		"/H/YandexDisk/coding web/gulp/watch.js",
-		"/H/YandexDisk/coding web/html/styles/_btn.css",
 		"/H/YandexDisk/coding web/html/scripts/app.js",
 		"/H/YandexDisk/coding web/gulpfile.js",
 		"/H/YandexDisk/coding web/package-lock.json",
 		"/H/YandexDisk/coding web/html/styles/_row.css",
 		"/H/YandexDisk/coding web/temp/styles.css",
-		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
-		"/H/YandexDisk/coding web/html/styles/_primary-nav.css",
-		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
-		"/H/YandexDisk/coding web/html/styles/styles.css",
-		"/H/YandexDisk/coding web/html/styles/_variables.css",
 		"/H/YandexDisk/coding web/html/styles/_site-footer.css",
 		"/H/YandexDisk/coding web/html/styles/_generic-content-container.css",
 		"/H/YandexDisk/coding web/gulp/sprites.js",
-		"/H/YandexDisk/coding web/html/styles/_headline.css",
 		"/H/YandexDisk/coding web/html/styles/_global.css",
 		"/H/YandexDisk/coding web/html/styles/_mixins.css",
-		"/H/YandexDisk/coding web/html/styles/_page-section.css",
 		"/H/YandexDisk/coding web/html/temp/styles.css",
 		"/C/Users/Hedgehog/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/H/YandexDisk/coding web/html/temp/styles/styles.css",
@@ -829,6 +828,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"youtub",
+			"yout",
+			"waypo",
+			"&__top {\n\t\t\tposition: absolute;\n\t\t\ttop: 0;\n\t\t\tleft: 0;\n\t\t\twidth: 20px;\n\t\t\theight: 3px;\n\t\t\tbackground-color: $mainWhite;\n\t\t}",
 			"click",
 			"jQuery.click",
 			"click",
@@ -960,96 +963,66 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/H/YandexDisk/coding web/package.json",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 645,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"file": "scripts/App.js",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 74,
+						"buffer_size": 6132,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								74,
-								74
+								543,
+								543
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "scripts/MobileMenu.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 378,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								281,
-								281
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"spell_check": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "scripts/MobileMenu.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1139,7 +1112,7 @@
 		],
 		"width": 592.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
