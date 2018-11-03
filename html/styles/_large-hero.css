@@ -1,8 +1,36 @@
 .large-hero {
-	position: relative;
+	position: relative;	
+	background-color: rgba($mainGray, 1.0);	
+	width: 640px;
+	height: 654px;
+
+	@mixin atSmall {
+		width: 990px;
+		height: 654px;	
+	}
+
+	@mixin atMedium {
+		width: 1380px;
+		height: 654px;	
+	}
+
+	@mixin atLarge {
+		width: 1920px;
+		height: 654px;		
+	}
 
 	&__image {
-		display: block;
+		position: absolute;
+		display: block;	
+		right: 53%;
+		top: 50%;
+		transform: translateY(-50%);		
+
+		@mixin atMedium {
+			right: 25%;
+			top: 85%;
+			transform: translateY(-85%);
+		}		
 	}
 
 	&__text-content {
