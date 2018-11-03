@@ -29,7 +29,8 @@ gulp.task('copyGeneralFiles', ['deleteDistFolder'], function() {
 		'!./html/scripts/**',
 		'!./html/temp/',
 		'!./html/temp/**',
-		'!./html/*.sublime-project'
+		'!./html/*.sublime-project',
+		'!./html/*.sublime-workspace'
 	]
 	return gulp.src(pathsToCopy)
 	.pipe(gulp.dest("./dist"));

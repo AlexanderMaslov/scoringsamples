@@ -4,8 +4,20 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"require"
+			],
+			[
 				"tran",
-				"transition\tproperty"
+				"transform\tproperty"
+			],
+			[
+				"key",
+				"keyPressHandler"
+			],
+			[
+				"jo",
+				"johnFavColor"
 			],
 			[
 				"s",
@@ -106,10 +118,6 @@
 			[
 				"favorite",
 				"favoriteColor"
-			],
-			[
-				"jo",
-				"johnFavColor"
 			],
 			[
 				"b",
@@ -356,10 +364,6 @@
 				"keyswitch_strum_pressed\tdefault"
 			],
 			[
-				"key",
-				"keyswitch_strum\tdefault"
-			],
-			[
 				"_strum",
 				"_strum_speed\tdefault"
 			],
@@ -510,37 +514,16 @@
 			[
 				"CONTROL_PAR_tex",
 				"CONTROL_PAR_TEXTPOS_Y\tvariable"
-			],
-			[
-				"CONTROL_PAR_f",
-				"CONTROL_PAR_FONT_TYPE\tvariable"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/H/YandexDisk/coding web/gulp/build.js",
 			"settings":
 			{
-				"buffer_size": 6132,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "scripts/App.js",
-			"settings":
-			{
-				"buffer_size": 309,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "scripts/MobileMenu.js",
-			"settings":
-			{
-				"buffer_size": 540,
+				"buffer_size": 1556,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -683,39 +666,41 @@
 	"expanded_folders":
 	[
 		"/H/YandexDisk/coding web",
+		"/H/YandexDisk/coding web/dist",
 		"/H/YandexDisk/coding web/gulp",
-		"/H/YandexDisk/coding web/html",
-		"/H/YandexDisk/coding web/html/scripts",
-		"/H/YandexDisk/coding web/html/styles",
-		"/H/YandexDisk/coding web/html/temp"
+		"/H/YandexDisk/coding web/html"
 	],
 	"file_history":
 	[
+		"/H/YandexDisk/coding web/html/contact.html",
+		"/H/YandexDisk/coding web/gulp/build.js",
+		"/H/YandexDisk/coding web/html/index.html",
+		"/H/YandexDisk/coding web/gulpfile.js",
+		"/H/YandexDisk/coding web/html/scripts/Vendor.js",
+		"/H/YandexDisk/coding web/webpack.config.js",
 		"/H/YandexDisk/coding web/html/scripts/App.js",
+		"/H/YandexDisk/coding web/html/scripts/StickyHeader.js",
+		"/H/YandexDisk/coding web/html/styles/_site-header.css",
+		"/H/YandexDisk/coding web/html/styles/_variables.css",
 		"/H/YandexDisk/coding web/html/scripts/Modal.js",
 		"/H/YandexDisk/coding web/html/styles/_modal.css",
+		"/H/YandexDisk/coding web/html/scripts/MobileMenu.js",
+		"/H/YandexDisk/coding web/html/scripts/App_test.js",
+		"/H/YandexDisk/coding web/package.json",
 		"/H/YandexDisk/coding web/html/styles/_btn.css",
-		"/H/YandexDisk/coding web/webpack.config.js",
 		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
 		"/H/YandexDisk/coding web/html/styles/_primary-nav.css",
 		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
 		"/H/YandexDisk/coding web/html/styles/_headline.css",
 		"/H/YandexDisk/coding web/html/styles/styles.css",
 		"/H/YandexDisk/coding web/html/styles/_video-content.css",
-		"/H/YandexDisk/coding web/html/scripts/StickyHeader.js",
 		"/H/YandexDisk/coding web/html/styles/_page-section.css",
-		"/H/YandexDisk/coding web/html/styles/_site-header.css",
-		"/H/YandexDisk/coding web/html/scripts/MobileMenu.js",
-		"/H/YandexDisk/coding web/html/styles/_variables.css",
-		"/H/YandexDisk/coding web/package.json",
 		"/H/YandexDisk/coding web/html/temp/app.js",
-		"/H/YandexDisk/coding web/html/index.html",
 		"/H/YandexDisk/coding web/html/scripts/person.js",
 		"/H/YandexDisk/coding web/gulp/scripts.js",
 		"/H/YandexDisk/coding web/gulp/styles.js",
 		"/H/YandexDisk/coding web/gulp/watch.js",
 		"/H/YandexDisk/coding web/html/scripts/app.js",
-		"/H/YandexDisk/coding web/gulpfile.js",
 		"/H/YandexDisk/coding web/package-lock.json",
 		"/H/YandexDisk/coding web/html/styles/_row.css",
 		"/H/YandexDisk/coding web/temp/styles.css",
@@ -751,7 +736,6 @@
 		"/H/YandexDisk/coding web/html/script/circle2",
 		"/H/YandexDisk/coding web/html/js/jquery-3.3.1.min.js",
 		"/H/YandexDisk/coding web/html/script/circle2.js.txt",
-		"/H/YandexDisk/coding web/html/contact.html",
 		"/C/Users/Hedgehog/AppData/Roaming/REAPER/Scripts/Custom/custom rea_template.lua",
 		"/H/YandexDisk/coding web/html/media.html",
 		"/H/YandexDisk/coding web/html/products.html",
@@ -815,10 +799,7 @@
 		"/I/_Programming/Xtant Audio - Lesson 3/Study Materials/ACME Fiddle/resources/scripts/ACME Fiddle",
 		"/H/YandexDisk/Coding/ACME Synth New.nki",
 		"/I/_Programming/Xtant Audio - Lesson 3/Study Materials/GUI Exercises/resources/scripts/GUI Excercise Tutorial.ksp",
-		"/H/YandexDisk/Coding/Drum Kit With Script.nki",
-		"/I/_Programming/Xtant Audio - Lesson 3/Study Materials/GUI Exercises/resources/pictures/knob.knob",
-		"/H/YandexDisk/Coding/GUI Excercise.ksp",
-		"/C/Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Contents/Windows/painter.ini"
+		"/H/YandexDisk/Coding/Drum Kit With Script.nki"
 	],
 	"find":
 	{
@@ -836,6 +817,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"index.html",
+			"!",
+			"data-ma",
+			"modal",
+			"johnFavColor",
+			"blue",
+			"Doe",
 			"youtub",
 			"yout",
 			"waypo",
@@ -966,87 +954,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6132,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								543,
-								543
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "scripts/App.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 309,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								24,
-								24
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
 			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 2,
-					"file": "scripts/MobileMenu.js",
+					"buffer": 0,
+					"file": "/H/YandexDisk/coding web/gulp/build.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 540,
+						"buffer_size": 1556,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								245,
-								245
+								461,
+								461
 							]
 						],
 						"settings":
@@ -1058,9 +983,14 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -1115,7 +1045,7 @@
 		"height": 120.0
 	},
 	"pinned_build_system": "Packages/User/Build to CSS Directory.sublime-build",
-	"project": "scoring samples website - sublime project.sublime-project",
+	"project": "scoring samples.sublime-project",
 	"replace":
 	{
 		"height": 73.0
@@ -1156,7 +1086,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 303.0,
+	"side_bar_width": 265.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
