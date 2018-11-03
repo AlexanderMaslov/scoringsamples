@@ -2,10 +2,13 @@ const path = require('path');
 
 module.exports = {
 	mode: 'production',
-	entry: './html/scripts/App.js',
+	entry: {
+		App: './html/scripts/App.js',
+		Vendor: './html/scripts/Vendor.js'
+	},
 	output: {
 		path: path.resolve(__dirname, 'html/temp'),
-		filename: 'App.js'
+		filename: '[name].js'
 	},
 	module: {
 		rules: [
