@@ -529,6 +529,14 @@
 			}
 		},
 		{
+			"file": "scripts/App.js",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "scripts/MobileMenu.js",
 			"settings":
 			{
@@ -683,10 +691,10 @@
 	],
 	"file_history":
 	[
+		"/H/YandexDisk/coding web/html/scripts/App.js",
 		"/H/YandexDisk/coding web/html/scripts/Modal.js",
 		"/H/YandexDisk/coding web/html/styles/_modal.css",
 		"/H/YandexDisk/coding web/html/styles/_btn.css",
-		"/H/YandexDisk/coding web/html/scripts/App.js",
 		"/H/YandexDisk/coding web/webpack.config.js",
 		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
 		"/H/YandexDisk/coding web/html/styles/_primary-nav.css",
@@ -958,7 +966,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -987,6 +995,34 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
 					"type": "text"
 				}
@@ -997,7 +1033,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "scripts/MobileMenu.js",
 					"semi_transient": false,
 					"settings":
@@ -1022,7 +1058,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

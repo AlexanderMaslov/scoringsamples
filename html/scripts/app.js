@@ -6,8 +6,3 @@ import Modal from './Modal';
 var mobileMenu = new MobileMenu();
 var stickyHeader = new StickyHeader();
 var modal = new Modal();
-
-console.log(mobileMenu);
-console.log(stickyHeader);
-console.log(modal);
-

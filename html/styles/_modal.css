@@ -8,11 +8,12 @@
 	right: 0;	
 	opacity: 0;
 	visibility: hidden;
-	transform: scale(1.2);
-	transition: all .3s easy-out;
+	transform: scale($animationScale);
+	transition: all $animationTime $animationMethod;
 
 	&--is-visible {
 		opacity: 1;
+		visibility: visible;
 		transform: scale(1);
 	}
 

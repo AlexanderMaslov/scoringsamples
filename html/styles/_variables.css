@@ -3,3 +3,6 @@ $mainWhite: #FFF;
 $mainOrange: #d59541;
 $mainGray: #626262;
 $mainBlack: #000;
+$animationTime: 0.2s;
+$animationScale: 1.1;
+$animationMethod: ease-out;
