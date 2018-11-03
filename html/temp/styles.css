@@ -578,7 +578,7 @@ a {
 	position: absolute;
 	width: 100%;
 	z-index: 2;
-	transition: background-color .3s ease-out;
+	transition: background-color 0.3s ease-out;
 }
 
 .site-header--is-expanded {
@@ -593,7 +593,7 @@ a {
 }
 
 		.site-header--dark {
-			background-color: rgba(23, 51, 72, .85);
+			background-color: rgba(23,51,72, .85);
 		}
 	}
 
@@ -626,6 +626,11 @@ a {
 
 			.site-header--dark .site-header__logo {
 				tranform: scale(.57);
+			}
+
+			.site-header--dark .site-header__logo {
+				-webkit-transform: scale(.83);
+				        transform: scale(.83);
 			}
 	}
 
@@ -812,7 +817,7 @@ a {
 	visibility: hidden;
 	-webkit-transform: scale(1.1);
 	        transform: scale(1.1);
-	transition: all 0.2s ease-out;
+	transition: all 0.3s ease-out;
 }
 
 .modal--is-visible {

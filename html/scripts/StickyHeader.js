@@ -2,7 +2,7 @@ import $ from 'jquery';
 import waypoints from '../../node_modules/waypoints/lib/noframework.waypoints';
 
 class StickyHeader {
-	constuctor() {
+	constructor() {
 		this.siteHeader = $(".site-header");
 		this.headerTriggerElement = $(".large-hero__title");
 		this.createHeaderWaypoint();
@@ -23,7 +23,7 @@ class StickyHeader {
 			}
 		});
 	}
-
+/*
 	createPageSectionWaypoints() {
 		this.pageSections.each(function() {
 			var currentPageSection = this;
@@ -36,6 +36,7 @@ class StickyHeader {
 			});
 		});
 	}
+*/
 }
 
 export default StickyHeader;

@@ -3,7 +3,7 @@
 	position: absolute;
 	width: 100%;
 	z-index: 2;
-	transition: background-color .3s ease-out;
+	transition: background-color $animationTime $animationMethod;
 
 	&--is-expanded {
 		background-color: rgba($mainBlue, .5);
@@ -14,7 +14,7 @@
 		background-color: rgba($mainBlue, .3);
 
 		&--dark {
-			background-color: rgba(23, 51, 72, .85);
+			background-color: rgba($darkBlue, .85);
 		}
 	}
 
@@ -39,6 +39,10 @@
 
 			.site-header--dark & {
 				tranform: scale(.57);
+			}
+
+			.site-header--dark & {
+				transform: scale(.83);
 			}
 		}
 	}
