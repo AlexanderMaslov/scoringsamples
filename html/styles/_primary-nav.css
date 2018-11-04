@@ -48,5 +48,9 @@
 				color: $mainOrange;
 			}
 		}
+
+		&:hover {
+			color: $mainOrange;
+		}
 	}
 }

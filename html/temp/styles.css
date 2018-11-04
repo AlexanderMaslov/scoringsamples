@@ -805,6 +805,10 @@ a {
 			}
 	}
 
+.primary-nav a:hover {
+			color: #d59541;
+		}
+
 .modal {
 	position: fixed;
 	z-index: 5;
