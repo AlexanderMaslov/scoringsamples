@@ -523,7 +523,17 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6232,
+				"buffer_size": 6181,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles/_large-hero.css",
+			"settings":
+			{
+				"buffer_size": 758,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -666,7 +676,8 @@
 	[
 		"/H/YandexDisk/coding web",
 		"/H/YandexDisk/coding web/gulp",
-		"/H/YandexDisk/coding web/html"
+		"/H/YandexDisk/coding web/html",
+		"/H/YandexDisk/coding web/html/styles"
 	],
 	"file_history":
 	[
@@ -958,18 +969,18 @@
 				{
 					"buffer": 0,
 					"file": "index.html",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6232,
+						"buffer_size": 6181,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1101,
+								1101
 							]
 						],
 						"settings":
@@ -978,7 +989,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 285.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -987,8 +998,38 @@
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 1,
+					"file": "styles/_large-hero.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1076,7 +1117,7 @@
 		],
 		"width": 592.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
