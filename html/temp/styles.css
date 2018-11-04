@@ -361,53 +361,11 @@ a {
 }
 
 .large-hero {
-	position: relative;	
-	background-color: rgba(98,98,98, 1.0);	
-	width: 640px;
-	height: 654px;
+	position: relative;
 }
-
-@media (min-width: 530px) {
-
-.large-hero {
-		width: 990px;
-		height: 654px
-}
-	}
-
-@media (min-width: 800px) {
-
-.large-hero {
-		width: 1380px;
-		height: 654px
-}
-	}
-
-@media (min-width: 1200px) {
-
-.large-hero {
-		width: 1920px;
-		height: 654px
-}
-	}
 
 .large-hero__image {
-		position: absolute;
-		display: block;	
-		right: 53%;
-		top: 50%;
-		-webkit-transform: translateY(-50%);
-		        transform: translateY(-50%);		
-	}
-
-@media (min-width: 800px) {
-
-.large-hero__image {
-			right: 25%;
-			top: 85%;
-			-webkit-transform: translateY(-85%);
-			        transform: translateY(-85%)		
-	}
+		display: block;
 	}
 
 .large-hero__text-content {

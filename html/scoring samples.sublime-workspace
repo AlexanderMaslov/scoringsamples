@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"t",
+				"translateY()\ttransform"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
 				"re",
 				"require"
 			],
@@ -506,25 +514,16 @@
 			[
 				"HIDE_P",
 				"HIDE_PART_BG\tvariable"
-			],
-			[
-				"HIDE",
-				"HIDE_WHOLE_CONTROL\tvariable"
-			],
-			[
-				"CONTROL_PAR_tex",
-				"CONTROL_PAR_TEXTPOS_Y\tvariable"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/H/YandexDisk/coding web/gulp/build.js",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1556,
-				"encoding": "UTF-8",
+				"buffer_size": 6232,
 				"line_ending": "Windows"
 			}
 		}
@@ -666,15 +665,16 @@
 	"expanded_folders":
 	[
 		"/H/YandexDisk/coding web",
-		"/H/YandexDisk/coding web/dist",
 		"/H/YandexDisk/coding web/gulp",
 		"/H/YandexDisk/coding web/html"
 	],
 	"file_history":
 	[
-		"/H/YandexDisk/coding web/html/contact.html",
-		"/H/YandexDisk/coding web/gulp/build.js",
 		"/H/YandexDisk/coding web/html/index.html",
+		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
+		"/H/YandexDisk/coding web/html/styles/_mixins.css",
+		"/H/YandexDisk/coding web/gulp/build.js",
+		"/H/YandexDisk/coding web/html/contact.html",
 		"/H/YandexDisk/coding web/gulpfile.js",
 		"/H/YandexDisk/coding web/html/scripts/Vendor.js",
 		"/H/YandexDisk/coding web/webpack.config.js",
@@ -688,7 +688,6 @@
 		"/H/YandexDisk/coding web/html/scripts/App_test.js",
 		"/H/YandexDisk/coding web/package.json",
 		"/H/YandexDisk/coding web/html/styles/_btn.css",
-		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
 		"/H/YandexDisk/coding web/html/styles/_primary-nav.css",
 		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
 		"/H/YandexDisk/coding web/html/styles/_headline.css",
@@ -708,7 +707,6 @@
 		"/H/YandexDisk/coding web/html/styles/_generic-content-container.css",
 		"/H/YandexDisk/coding web/gulp/sprites.js",
 		"/H/YandexDisk/coding web/html/styles/_global.css",
-		"/H/YandexDisk/coding web/html/styles/_mixins.css",
 		"/H/YandexDisk/coding web/html/temp/styles.css",
 		"/C/Users/Hedgehog/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/H/YandexDisk/coding web/html/temp/styles/styles.css",
@@ -959,24 +957,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/H/YandexDisk/coding web/gulp/build.js",
-					"semi_transient": false,
+					"file": "index.html",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1556,
+						"buffer_size": 6232,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								461,
-								461
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -1078,7 +1076,7 @@
 		],
 		"width": 592.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
