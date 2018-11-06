@@ -548,6 +548,10 @@ a {
 			float: left;
 			width: 33.33%;
 		}
+
+		.row__medium-4--right {
+			float: right;
+		}
 		
 		.row__medium-8 {
 			float: left;

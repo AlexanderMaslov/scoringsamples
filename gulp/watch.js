@@ -6,11 +6,12 @@ gulp.task('watch', function() {
 	browserSync.init({
 		notify: false,
 		server: {
-			baseDir: "html"
+			baseDir: "html",
+			index: "products.html"
 		}
 	});
 
-	watch('./html/index.html', function() {
+	watch('./html/products.html', function() {
 		browserSync.reload();
 	});
 

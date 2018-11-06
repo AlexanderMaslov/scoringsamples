@@ -1,5 +1,4 @@
 .row {
-
 	@mixin clearfix;
 	
 	&--gutters {
@@ -15,6 +14,10 @@
 		&__medium-4 {
 			float: left;
 			width: 33.33%;
+		}
+
+		&__medium-4--right {
+			float: right;
 		}
 		
 		&__medium-8 {
