@@ -489,8 +489,12 @@ a {
 	}
 
 .page-section {
-	padding: 4.5rem 0;
+	padding-top: 4.5rem;
 }
+
+.page-section--bottom-section {
+		padding-bottom: 6.5rem;
+	}
 
 .headline {
 	font-weight: 300;
@@ -556,6 +560,11 @@ a {
 		.row__medium-8 {
 			float: left;
 			width: 66.66%;
+		}
+
+		.row__medium-6 {
+			float: left;
+			width: 50.00%;
 		}
 	}
 

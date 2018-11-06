@@ -24,6 +24,11 @@
 			float: left;
 			width: 66.66%;
 		}
+
+		&__medium-6 {
+			float: left;
+			width: 50.00%;
+		}
 	}
 	
 
