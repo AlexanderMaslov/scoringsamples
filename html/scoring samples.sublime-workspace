@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
 				"site",
 				"site-footer"
 			],
@@ -246,10 +250,6 @@
 			[
 				"rg",
 				"rgba()\tbackground-color"
-			],
-			[
-				"margin",
-				"margin-right\tproperty"
 			],
 			[
 				"padding",
@@ -519,6 +519,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/H/YandexDisk/coding ksp/ukulele-concerto/scripts/master.ksp",
+			"settings":
+			{
+				"buffer_size": 24643,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/SASS Build/SASS.sublime-build",
 	"build_system_choices":
@@ -664,45 +673,50 @@
 	},
 	"expanded_folders":
 	[
-		"/H/YandexDisk/coding web",
-		"/H/YandexDisk/coding web/dist",
-		"/H/YandexDisk/coding web/gulp",
-		"/H/YandexDisk/coding web/html",
-		"/H/YandexDisk/coding web/html/scripts"
+		"/H/YandexDisk/coding web"
 	],
 	"file_history":
 	[
+		"/H/YandexDisk/coding ksp/ukulele-concerto/scripts/master.ksp",
+		"/H/YandexDisk/coding ksp/ukulele-concerto/scripts/_func.ksp",
+		"/H/YandexDisk/coding ksp/ukulele-concerto/scripts/_ui.ksp",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/H/YandexDisk/coding web/html/scripts/Vendor.js",
+		"/H/YandexDisk/coding web/html/index.html",
+		"/H/YandexDisk/coding web/html/styles/_btn.css",
+		"/H/YandexDisk/coding web/html/temp/App.js",
+		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
+		"/H/YandexDisk/coding web/html/scripts/Circle2.js",
+		"/H/YandexDisk/coding web/package.json",
+		"/H/YandexDisk/coding web/html/contact.html",
+		"/H/YandexDisk/coding web/html/styles/_page-section.css",
+		"/H/YandexDisk/coding web/gulp/watch.js",
+		"/H/YandexDisk/coding web/html/media.html",
+		"/H/YandexDisk/coding web/html/products.html",
+		"/H/YandexDisk/coding web/html/styles/_primary-nav.css",
+		"/H/YandexDisk/coding web/html/styles/_row.css",
+		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
+		"/H/YandexDisk/coding web/html/temp/products.html",
 		"/D/test/cue.RPP",
 		"/H/YandexDisk/coding web/html/shopping.html",
 		"/H/YandexDisk/coding web/html/scripts/PayPal.js",
 		"/H/YandexDisk/coding web/html/scripts/StickyHeader.js",
 		"/H/YandexDisk/coding web/html/scripts/Modal.js",
-		"/H/YandexDisk/coding web/package.json",
 		"/H/YandexDisk/coding web/html/scripts/App.js",
-		"/H/YandexDisk/coding web/gulp/watch.js",
 		"/H/YandexDisk/coding web/html/styles/_site-footer.css",
-		"/H/YandexDisk/coding web/html/styles/_wrapper.css",
-		"/H/YandexDisk/coding web/html/index.html",
-		"/H/YandexDisk/coding web/html/styles/_primary-nav.css",
 		"/H/YandexDisk/coding web/html/styles/_variables.css",
 		"/H/YandexDisk/coding web/html/styles/_global.css",
-		"/H/YandexDisk/coding web/html/styles/_row.css",
 		"/H/YandexDisk/coding web/html/styles/_site-header.css",
-		"/H/YandexDisk/coding web/html/styles/_btn.css",
 		"/H/YandexDisk/coding web/html/styles/styles.css",
-		"/H/YandexDisk/coding web/html/styles/_large-hero.css",
 		"/H/YandexDisk/coding web/html/styles/_mixins.css",
 		"/H/YandexDisk/coding web/gulp/build.js",
-		"/H/YandexDisk/coding web/html/contact.html",
 		"/H/YandexDisk/coding web/gulpfile.js",
-		"/H/YandexDisk/coding web/html/scripts/Vendor.js",
 		"/H/YandexDisk/coding web/webpack.config.js",
 		"/H/YandexDisk/coding web/html/styles/_modal.css",
 		"/H/YandexDisk/coding web/html/scripts/MobileMenu.js",
 		"/H/YandexDisk/coding web/html/scripts/App_test.js",
 		"/H/YandexDisk/coding web/html/styles/_headline.css",
 		"/H/YandexDisk/coding web/html/styles/_video-content.css",
-		"/H/YandexDisk/coding web/html/styles/_page-section.css",
 		"/H/YandexDisk/coding web/html/temp/app.js",
 		"/H/YandexDisk/coding web/html/scripts/person.js",
 		"/H/YandexDisk/coding web/gulp/scripts.js",
@@ -740,8 +754,6 @@
 		"/H/YandexDisk/coding web/html/js/jquery-3.3.1.min.js",
 		"/H/YandexDisk/coding web/html/script/circle2.js.txt",
 		"/C/Users/Hedgehog/AppData/Roaming/REAPER/Scripts/Custom/custom rea_template.lua",
-		"/H/YandexDisk/coding web/html/media.html",
-		"/H/YandexDisk/coding web/html/products.html",
 		"/H/YandexDisk/coding web/html/contacts.html",
 		"/H/YandexDisk/coding web/html/favorite_colors.html",
 		"/C/Users/Hedgehog/AppData/Roaming/REAPER/Scripts/Custom/custom toggle_midi_ports_arm.lua",
@@ -792,14 +804,7 @@
 		"/I/_Coding/Xtant Audio - Lesson 4/Study Material/Kontakt Development Framework v1.0/_libraries/ui_library_finished.ksp",
 		"/H/YandexDisk/Coding/Bob/Scripts/V702MathPack/V702/KSE Scripts/KSPMathV702.ksp",
 		"/H/YandexDisk/Coding/1С/Чистов - Базовый курс.bsl",
-		"/C/Users/Hedgehog/Desktop/TEMP/Чистов - Базовый курс.bsl",
-		"/I/_Coding/Xtant Audio - Lesson 3/Study Materials/ACME Fiddle/resources/scripts/ACME Fiddle",
-		"/I/_Coding/Xtant Audio - Lesson 4/Lesson 4 Completed Project/Kontakt Development Framework v1.0/_new_project/config.ksp",
-		"/I/_Coding/Xtant Audio - Lesson 4/Lesson 4 Completed Project/Kontakt Development Framework v1.0/_new_project/model.ksp",
-		"/I/_Coding/Xtant Audio - Lesson 4/Lesson 4 Completed Project/Kontakt Development Framework v1.0/_new_project/view.ksp",
-		"/I/_Coding/Xtant Audio - Lesson 4/Lesson 4 Completed Project/Kontakt Development Framework v1.0/_new_project/controller.ksp",
-		"/H/YandexDisk/Coding/ACME Synth.ksp",
-		"/I/_Programming/Xtant Audio - Lesson 3/Study Materials/ACME Fiddle/resources/scripts/ACME Fiddle"
+		"/C/Users/Hedgehog/Desktop/TEMP/Чистов - Базовый курс.bsl"
 	],
 	"find":
 	{
@@ -817,6 +822,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"js",
+			"lazy",
+			"pict",
+			"<source srcset=\"images/large-hero-ukulele--small.jpg\" media=\"(min-width: 640px)\">",
+			"latest pro",
 			"strings",
 			"<<<<",
 			"float",
@@ -939,8 +949,7 @@
 			"found",
 			"housing",
 			"admissions",
-			"found",
-			"stylesheet"
+			"found"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -961,8 +970,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/H/YandexDisk/coding ksp/ukulele-concerto/scripts/master.ksp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
+							]
+						],
+						"settings":
+						{
+							"syntax": "KSP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		},
 		{
